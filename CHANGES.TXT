@@ -1,0 +1,11 @@
+
+Changelog
+=========
+
+
+Revision 1
+----------
+
+* Incomplete original release of design files.
+  [Project still needs an overview document and some additional testing]
+  [07.02.2022 - FreeSynth]
